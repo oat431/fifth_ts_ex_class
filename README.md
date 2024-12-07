@@ -2,15 +2,15 @@
 
 ## 📝 About the Project
 
-This repository is for the **Express TS 4th Workshop**. It aims to establish a proper backend development environment using Express and TypeScript. The setup includes essential tools for code quality, formatting, and API documentation, providing a strong foundation for building reliable and scalable applications.
+This repository is for the **Express TS 5th Workshop**. It aims to establish a proper backend development environment using Express and TypeScript. The setup includes essential tools for code quality, formatting, and API documentation, providing a strong foundation for building reliable and scalable applications.
 
 ## ✨ Features
 
-- **Swagger** - API documentation tool for clear and interactive documentation
-- **ESLint** - Linter for identifying and fixing code errors and standardizing code style
-- **Prettier** - Code formatter for consistent styling
-- **Husky** - Git hooks for pre-commit checks, ensuring code quality before committing
-- **Morgan** - HTTP request logger that provides insights into request details for easier debugging and monitoring
+-   **Swagger** - API documentation tool for clear and interactive documentation
+-   **ESLint** - Linter for identifying and fixing code errors and standardizing code style
+-   **Prettier** - Code formatter for consistent styling
+-   **Husky** - Git hooks for pre-commit checks, ensuring code quality before committing
+-   **Morgan** - HTTP request logger that provides insights into request details for easier debugging and monitoring
 
 ## ⚙️ Prerequisites
 
@@ -25,13 +25,13 @@ To set up the project locally, follow these steps:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/oat431/fourth_ts_class.git
+    git clone https://github.com/oat431/fifth_ts_ex_class.git
     ```
 
 2. **Navigate to the project directory**
 
     ```bash
-    cd fourth_ts_class
+    cd fifth_ts_ex_class
     ```
 
 3. **Install dependencies**
@@ -43,8 +43,10 @@ To set up the project locally, follow these steps:
 > **Note**: Ensure you have Node.js version 20 or above for compatibility with this project.
 
 ## 🚀 Usage
+
 1. **Create .env.dev**
-    add
+   add
+
     ```bash
     PORT=8080
     ```

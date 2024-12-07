@@ -20,8 +20,10 @@
         "express": "^4.21.1",
         "fourth_ts_class": "file:",
         "morgan": "^1.10.0",
+        "postgres": "^3.4.5",
         "swagger-jsdoc": "^6.2.8",
-        "swagger-ui-express": "^5.0.1"
+        "swagger-ui-express": "^5.0.1",
+        "uuid": "^11.0.3"
     },
     "devDependencies": {
         "@commitlint/cli": "^19.5.0",
